@@ -1,3 +1,3 @@
-# My-portfolio
+# David Clearman's portfolio
 
-This is my proessional portfolio
+This is my professional portfolio.  It uses AWS and ReactJS.
