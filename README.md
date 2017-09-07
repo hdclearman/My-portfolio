@@ -1,3 +1,3 @@
 # My-portfolio
 
-This is amy proessional portfolio
+This is my proessional portfolio
